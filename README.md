@@ -1,2 +1,2 @@
 # pandas-challenge
-In the PyCitySchools assignment, I used class resources such as Xpert Learning Assistant.
+In the PyCitySchools assignment, I have references class materials and used assistance from the Xpert Learning Assistant.
