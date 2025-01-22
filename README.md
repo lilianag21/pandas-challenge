@@ -1,2 +1,2 @@
 # pandas-challenge
-In the PyBank and PyPoll assignments, I used class resources such as Xpert Learning Assistant.
+In the PyCitySchools assignment, I used class resources such as Xpert Learning Assistant.
